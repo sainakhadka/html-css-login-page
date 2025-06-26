@@ -8,6 +8,6 @@ To view the login page on your local device
  3. Open the file in the browser
 
 Project Structure:
- index.html
- style.css
+ 1.index.html
+ 2.style.css
  
